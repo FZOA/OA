@@ -1,7 +1,6 @@
 // Q: Explain JavaScript Callback functions and provide a simple example ?
 
-/* 
-Answer: callback function is a type of function that is being passed as an arguement,
+/* Answer: callback function is a type of function that is being passed as an arguement,
 which will be invoked later in another function.
 Example: */
 function firstStep(param) {
